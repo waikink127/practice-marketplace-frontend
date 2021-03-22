@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "serverlessAWS",
-    "slug": "serverlessAWS",
+    "name": "MyProjectApp",
+    "slug": "MyProjectApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
